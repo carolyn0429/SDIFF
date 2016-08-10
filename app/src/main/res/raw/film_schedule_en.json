@@ -1,0 +1,117 @@
+{
+  "Film":
+    [
+      {
+        "filmName": "Alaska",
+        "premierDate": "10/15/2016-7:30 PM",
+        "venueID": "mopa",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=7iQFZNC8Hnw"
+        ]
+      },
+      {
+        "filmName": "The Art of Happiness",
+        "premierDate": "10/08/2016-7:30 PM",
+        "venueID": "mopa",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=n6tK-0oiVG4"
+        ]
+      },
+      {
+        "filmName": "Ugly, Dirty and Bad",
+        "premierDate": "10/12/2016-7:30 PM",
+        "venueID": "mopa",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=Rikqcbg1Fc0"
+        ]
+      },
+      {
+        "filmName": "How Strange To Be Named Federico: Scola Narrates Fellini",
+        "premierDate": "10/14/2016-7:00 PM",
+        "venueID": "lapaloma",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=haTISAdv0PM"
+        ]
+      },
+      {
+        "filmName": "Tale of Tales",
+        "premierDate": "10/07/2016-7:00 PM",
+        "venueID": "mopa",
+        "imageURLs": [
+          "http://www.ilpost.it/wp-content/uploads/2015/05/il-castello-di-roccascalegna.jpg"
+        ],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=J9ETi804w-E"
+        ]
+      },
+      {
+        "filmName": "Me, Myself and Her",
+        "premierDate": "10/06/2016-7:30 PM",
+        "venueID": "mopa",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://vimeo.com/149011115"
+        ]
+      },
+      {
+        "filmName": "Me, Myself and Her",
+        "premierDate": "10/13/2016-7:00 PM",
+        "venueID": "lapaloma",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://vimeo.com/149011115"
+        ]
+      },
+      {
+        "filmName": "They Call Me Jeeg",
+        "premierDate": "10/05/2016-7:30 PM",
+        "venueID": "mopa",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=y8nHHmSiKzM"
+        ]
+      },
+      {
+        "filmName": "Latin Lover",
+        "premierDate": "10/06/2016-7:00 PM",
+        "venueID": "lapaloma",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=lomeVSznLT4&list=PLMQr6ytoVqY6G0yup7bGLley38Y4olidk"
+        ]
+      },
+      {
+        "filmName": "Latin Lover",
+        "premierDate": "10/16/2016-7:30 PM",
+        "venueID": "mopa",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=lomeVSznLT4&list=PLMQr6ytoVqY6G0yup7bGLley38Y4olidk"
+        ]
+      },
+      {
+        "filmName": "Shores of Light: Salento 1945-47",
+        "premierDate": "10/09/2016-12:01 AM",
+        "venueID": "mopa",
+        "imageURLs": [],
+        "trailerURLs": [
+          "https://vimeo.com/117919607"
+        ]
+      },
+      {
+        "filmName": "Sworn Virgin",
+        "premierDate": "10/13/2016-7:30 PM",
+        "venueID": "mopa",
+        "imageURLs": [
+          "http://mymovies.it/verginegiurata/images/bg_home_new.jpg"
+        ],
+        "trailerURLs": [
+          "https://www.youtube.com/watch?v=IQAEWKQ-7oc"
+        ]
+      }
+    ]
+}
